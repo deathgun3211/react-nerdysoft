@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-nerdysoft/static/css/main.e55fb5af.chunk.css",
+    "main.js": "/react-nerdysoft/static/js/main.6201b6cd.chunk.js",
+    "main.js.map": "/react-nerdysoft/static/js/main.6201b6cd.chunk.js.map",
+    "runtime-main.js": "/react-nerdysoft/static/js/runtime-main.c4a0f530.js",
+    "runtime-main.js.map": "/react-nerdysoft/static/js/runtime-main.c4a0f530.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/react-nerdysoft/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c44de53d.chunk.js": "/react-nerdysoft/static/js/2.c44de53d.chunk.js",
+    "static/js/2.c44de53d.chunk.js.map": "/react-nerdysoft/static/js/2.c44de53d.chunk.js.map",
+    "index.html": "/react-nerdysoft/index.html",
+    "precache-manifest.bc7e288727f5df5a65d7844cab1c9f26.js": "/react-nerdysoft/precache-manifest.bc7e288727f5df5a65d7844cab1c9f26.js",
+    "service-worker.js": "/react-nerdysoft/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/react-nerdysoft/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e55fb5af.chunk.css.map": "/react-nerdysoft/static/css/main.e55fb5af.chunk.css.map",
+    "static/js/2.c44de53d.chunk.js.LICENSE.txt": "/react-nerdysoft/static/js/2.c44de53d.chunk.js.LICENSE.txt",
+    "static/media/cat.jpg": "/react-nerdysoft/static/media/cat.1c25a58c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a0f530.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.c44de53d.chunk.js",
+    "static/css/main.e55fb5af.chunk.css",
+    "static/js/main.6201b6cd.chunk.js"
+  ]
+}
