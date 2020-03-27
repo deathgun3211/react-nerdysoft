@@ -1,0 +1,22 @@
+.my-btn {
+  height: 38px;
+
+  &.btn {
+    box-shadow: unset;
+
+    &:focus {
+      box-shadow: unset;
+    }
+  }
+
+  &.btn-primary {
+    &.focus,
+    &:focus {
+      box-shadow: unset;
+    }
+  }
+
+  &.btn-styled {
+    background: lightpink !important;
+  }
+}

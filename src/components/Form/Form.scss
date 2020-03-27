@@ -1,0 +1,16 @@
+.custom-form {
+  width: 650px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+
+  padding: 20px;
+  margin: 30px auto;
+
+  .form-group {
+    margin-bottom: 10px;
+  }
+
+  input {
+    margin: 10px 0;
+  }
+}
